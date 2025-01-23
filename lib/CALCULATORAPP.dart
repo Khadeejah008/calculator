@@ -37,7 +37,7 @@ class CalculatorScreen extends StatefulWidget{
         }
       }
       //Handle operation
-      if(value=="+"||value=="-"||value=="")
+      if(value=="+"||value=="-"||value=="*"||value=="/")
     });
     
    },
